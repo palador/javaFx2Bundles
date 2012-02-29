@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
-   <feature url="features/org.angriff.jfx2.feature_2.0.3.qualifier.jar" id="org.angriff.jfx2.feature" version="2.0.3.qualifier" os="win32" ws="win32" arch="x86,x86_64"/>
+   <feature url="features/org.angriff.jfx2.feature_2.0.3.jar" id="org.angriff.jfx2.feature" version="2.0.3" os="win32" ws="win32" arch="x86,x86_64"/>
 </site>

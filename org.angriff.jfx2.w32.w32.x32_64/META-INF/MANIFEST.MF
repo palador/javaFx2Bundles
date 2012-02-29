@@ -2,7 +2,7 @@ Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
 Bundle-Name: JavaFX 2 Bundle w32.w32.x32_x64 binaries
 Bundle-SymbolicName: org.angriff.jfx2.w32.w32.x32_64
-Bundle-Version: 2.0.3.qualifier
+Bundle-Version: 2.0.3
 Fragment-Host: org.angriff.jfx2;bundle-version="[2.0.3,2.0.4)"
 Bundle-RequiredExecutionEnvironment: JavaSE-1.7
 Bundle-Vendor: projektangriff

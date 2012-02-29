@@ -2,7 +2,7 @@ Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
 Bundle-Name: JavaFX 2 Bundle
 Bundle-SymbolicName: org.angriff.jfx2
-Bundle-Version: 2.0.3.qualifier
+Bundle-Version: 2.0.3
 Bundle-Vendor: projektangriff
 Bundle-RequiredExecutionEnvironment: JavaSE-1.7
 Export-Package: javafx.animation;version="2.0.3",
